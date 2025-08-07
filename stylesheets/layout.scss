@@ -25,7 +25,8 @@ body {
 }
 
 #main {
-  padding-top: var(--header-offset);
+  //remove it to avoid the header being pushed down
+ //padding-top: var(--header-offset);
 }
 
 body {
