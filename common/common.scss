@@ -33,18 +33,18 @@ body {
   max-width: 1440px;
   margin: 0 auto;
   padding: 0 2rem;
-   position: fixed;
-  top: 0;
-  left: 0;
-  width: 100vw;
 }
 
 /* Header */
 .header-new-header {
   background: linear-gradient(271deg, #383689 -24.3%, #111029 109.45%);
   height: 100px;
-   position: fixed;
-  //position: fixed;
+ position: fixed;
+  top: 0;
+  left: 0;
+  width: 100vw;
+  height: 60px;
+  z-index: 1100;
 }
 
 .nav-new-header{
