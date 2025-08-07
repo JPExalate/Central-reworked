@@ -28,7 +28,7 @@ body {
 }
 
 /* Container */
-.container {
+.container-new-header-new-header {
   max-width: 1440px;
   margin: 0 auto;
   padding: 0 2rem;
@@ -479,13 +479,13 @@ body {
     grid-template-columns: repeat(4, 1fr);
   }
 
-  .container {
+  .container-new-header-new-header {
     padding: 0 1rem;
   }
 }
 
 @media (min-width: 1400px) {
-  .container {
+  .container-new-header {
     max-width: 1400px;
   }
 }
