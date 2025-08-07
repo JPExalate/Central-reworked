@@ -11,9 +11,9 @@
   &-wrap {
     //Changes from fixed to sticky
     //position: fixed;
-    position: sticky;
+    //position: sticky;
     width: 100%;
-    z-index: 999;
+   z-index: 1000;
   }
 
   .header-sidebar-toggle {
