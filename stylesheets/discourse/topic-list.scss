@@ -131,7 +131,8 @@ table.topic-list:not(.bookmark-list) {
 
       &.selected {
         // j/k keyboard nav
-        box-shadow: inset 3px 0 0 var(--d-nav-color--active);
+        //commented out to keep white text color
+       // box-shadow: inset 3px 0 0 var(--d-nav-color--active);
       }
 
       @container (max-width: 32rem) {
