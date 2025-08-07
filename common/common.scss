@@ -39,11 +39,11 @@ body {
 .header-new-header {
   background: linear-gradient(271deg, #383689 -24.3%, #111029 109.45%);
   height: 100px;
- position: relative;
+ //position: relative;
+ padding-top: 60px;;
   top: 0;
   left: 0;
   width: 100vw;
-  height: 60px;
   z-index: 1100;
 }
 
