@@ -42,10 +42,12 @@ body {
 /* Header */
 .header-new-header {
   background: linear-gradient(271deg, #383689 -24.3%, #111029 109.45%);
-  height: 90px;
+  height: 60px;
  //position: relative;
   margin-top: 60px;
-  text-color: white;
+  //override text color to white
+  color: white;
+  //text-color: white;
   //top: 0;
   //left: 0;
   //width: 100vw;
