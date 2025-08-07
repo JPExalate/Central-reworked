@@ -60,6 +60,9 @@ body {
 }
 
 .nav-links-new-header{
+  //added to move items a little bit to the right
+  margin-left: 2rem;
+  display: flex;
   display: none;
   align-items: center;
   gap: 2rem;
